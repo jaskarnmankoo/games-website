@@ -1,4 +1,4 @@
-# Games-Website
+# games-website
 
 A project done in pairs where we had to create a games website.
 
